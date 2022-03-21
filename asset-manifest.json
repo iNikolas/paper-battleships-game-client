@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/paper-battleships-game-client/static/css/main.a1485786.css",
-    "main.js": "/paper-battleships-game-client/static/js/main.ed336fdf.js",
+    "main.js": "/paper-battleships-game-client/static/js/main.304ab993.js",
     "static/media/background_image.jpg": "/paper-battleships-game-client/static/media/background_image.4d7b3fd83455850a5d44.jpg",
     "static/media/logo.webp": "/paper-battleships-game-client/static/media/logo.9ba61815c1afa132d197.webp",
     "static/media/logout.svg": "/paper-battleships-game-client/static/media/logout.ea67a7b8d2840bb74d549d91fe901d45.svg",
     "index.html": "/paper-battleships-game-client/index.html",
     "main.a1485786.css.map": "/paper-battleships-game-client/static/css/main.a1485786.css.map",
-    "main.ed336fdf.js.map": "/paper-battleships-game-client/static/js/main.ed336fdf.js.map"
+    "main.304ab993.js.map": "/paper-battleships-game-client/static/js/main.304ab993.js.map"
   },
   "entrypoints": [
     "static/css/main.a1485786.css",
-    "static/js/main.ed336fdf.js"
+    "static/js/main.304ab993.js"
   ]
 }
