@@ -1,0 +1,11 @@
+.error-state {
+    border-color: indianred !important;
+}
+
+.tooltip-inner {
+    background-color: indianred !important;
+}
+
+.tooltip-arrow::before {
+    border-top-color: indianred !important;
+}

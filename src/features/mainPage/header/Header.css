@@ -1,0 +1,19 @@
+.logout-img {
+  filter: invert(1);
+  cursor: pointer;
+}
+
+.user-name {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  color: aliceblue;
+}
+
+.app-logo-img {
+  border-radius: 50%;
+}
